@@ -28,7 +28,7 @@ Follow the steps below to run Chatify on your local machine.
 ### 2. 🛠 Installation
 
 ```bash
-git clone https://github.com/yourusername/chatify.git
+git clone https://github.com/sthrnilshaaa/chatify.git
 cd chatify
 flutter pub get
 ````
@@ -80,8 +80,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-Developed by **\[Your Name]**
-[GitHub](https://github.com/yourusername) • [LinkedIn](https://linkedin.com/in/yourprofile)
+Developed by **nilsha**
+[GitHub](https://github.com/sthrnilshaaa) • [LinkedIn](https://linkedin.com/in/yourprofile)
 
 ---
 
